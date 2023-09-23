@@ -1,0 +1,4 @@
+.venv
+.vscode
+spark-warehouse
+**__pycache__**
