@@ -2,3 +2,4 @@
 .vscode
 spark-warehouse
 **__pycache__**
+sink
